@@ -1,24 +1,12 @@
-# tutorial
+# frontend_vue-of-TodoList
 
-## Project setup
-```
-npm install
-```
+### What Project
+  This project is saved by writing the todo, and its contents can be modified or deleted.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### use skils
+  - Vuejs
+  - Router
+  - bootstrap
+  - vue-bootstrap
+  - axios
+  - Backend_Express(https://github.com/Ahn-GiHwan/Backend_Express-of-TodoList)
