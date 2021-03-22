@@ -9,4 +9,4 @@
   - bootstrap
   - vue-bootstrap
   - axios
-  - Backend_Express(https://github.com/Ahn-GiHwan/Backend_Express-of-TodoList)
+  - Backend_Express
